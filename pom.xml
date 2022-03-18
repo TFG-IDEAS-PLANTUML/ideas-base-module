@@ -26,6 +26,14 @@
 		</pluginRepository>
 	</pluginRepositories>
 
+	<distributionManagement>
+		<repository>
+			<id>github</id>
+			<name>GitHub OWNER Apache Maven Packages</name>
+			<url>https://maven.pkg.github.com/TFG-IDEAS-PLANTUML/ideas-base-module/</url>
+		</repository>
+	</distributionManagement>
+
 	<repositories>
 
 		<repository>
